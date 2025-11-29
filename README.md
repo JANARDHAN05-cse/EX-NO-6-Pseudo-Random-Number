@@ -1,7 +1,8 @@
 # EX-NO-6-Pseudo-Random-Number
 
-## Name : Janardhan P
-## Reg no : 212224040128
+| Name    | Janardhan P |
+|---------|-------------|
+| Reg No  | 212224040128|
 
 # AIM: 
 Implementation of Pseudorandom Number Generation Using Standard library
